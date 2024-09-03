@@ -1,0 +1,97 @@
+Winning rules of the game ROCK PAPER SCISSORS are :
+Rock vs Paper -> Paper wins 
+Rock vs Scissors -> Rock wins 
+Paper vs Scissors -> Scissor wins 
+
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
+Enter your choice :1
+User choice is 
+ Rock
+Now its Computers Turn....
+Computer choice is 
+ Paper
+Rock Vs Paper
+paper wins =><== Computer wins ==>
+Do you want to play again? (Y/N)
+y
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
+Enter your choice :2
+User choice is 
+ Paper
+Now its Computers Turn....
+Computer choice is 
+ RocK
+Paper Vs RocK
+paper wins =><== User wins ==>
+Do you want to play again? (Y/N)
+y
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
+Enter your choice :3
+User choice is 
+ Scissors
+Now its Computers Turn....
+Computer choice is 
+ Paper
+Scissors Vs Paper
+Scissors wins =><== Computer wins ==>
+Do you want to play again? (Y/N)
+y
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
+Enter your choice :2
+User choice is 
+ Paper
+Now its Computers Turn....
+Computer choice is 
+ RocK
+Paper Vs RocK
+paper wins =><== User wins ==>
+Do you want to play again? (Y/N)
+y
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
+Enter your choice :2
+User choice is 
+ Paper
+Now its Computers Turn....
+Computer choice is 
+ RocK
+Paper Vs RocK
+paper wins =><== User wins ==>
+Do you want to play again? (Y/N)
+y
+Enter your choice 
+ 1 - Rock 
+ 2 - Paper 
+ 3 - Scissors 
+
+Enter your choice :1
+User choice is 
+ Rock
+Now its Computers Turn....
+Computer choice is 
+ Scissors
+Rock Vs Scissors
+Rock wins =>
+<== User wins ==>
+Do you want to play again? (Y/N)
+n
+thanks for playing
