@@ -30,6 +30,8 @@ A fun CLI-based **Rock-Paper-Scissors** game built with Python. Play against the
 
 ---
 
+This README **matches the energy of your game—fun, dynamic, and engaging**! If you want any tweaks or extra features included, let me know. 🚀🔥  
+
 ## 📌 Setup & Installation  
 ```sh
 git clone https://github.com/NIKHIL-KARAMTHODI/rock_paper_scissor.git  
@@ -37,4 +39,4 @@ cd rock_paper_scissor
 python RockPaperScissor.py  
 
 
-This README **matches the energy of your game—fun, dynamic, and engaging**! If you want any tweaks or extra features included, let me know. 🚀🔥  
+
